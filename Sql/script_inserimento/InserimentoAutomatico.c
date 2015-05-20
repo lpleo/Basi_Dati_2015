@@ -71,7 +71,6 @@ char * stringaIntero(int tipo, char *parola) {
 		l=l+5;
 		finale=malloc(sizeof(char)*l);
 		strcat(finale," '");
-		printf("prova!!!!: %s\n",parola);
 		strcat(finale,parola);
 		strcat(finale,"' ,");
 	}
@@ -82,8 +81,8 @@ char * stringaIntero(int tipo, char *parola) {
 	if(tipo == 3) {
 		l=l+3;
 		finale=malloc(sizeof(char)*l);
-		strcpy(finale,"'");
-		strcpy(finale,parola);
+		strcat(finale,"'");
+		strcat(finale,parola);
 		strcat(finale,"'");
 	}
 
@@ -112,29 +111,31 @@ void copia (char *dest, char *sorg) {
 
 void insStrum() {
 	FILE *fp;
-	char *parola;
+	char parola[200];
 	fp = fopen("InserimentoDati.sql","a");
 	fprintf(fp, "%s", inizio);
-	fprintf(fp, "%s", "strumenti");
+	fprintf(fp, "%s", "strumento");
 	fprintf(fp, "%s", valori);
 	printf("Inserisci codice strumento: ");
-	getchar();
-	parola = leggiConSpazi();
+	scanf("%s",parola);
 	fprintf(fp, "%s", stringaIntero(1,parola));
 	printf("inserisci nome strumento: ");
-	parola = leggiConSpazi();
+	scanf("%s",parola);
 	fprintf(fp, "%s", stringaIntero(1,parola));
 	printf("inserire watt strumento: ");
-	parola = leggiConSpazi();
+	scanf("%s",parola);
 	fprintf(fp, "%s", stringaIntero(0,parola));
+    printf("inserire ditta strumento: ");
+	scanf("%s",parola);
+	fprintf(fp, "%s", stringaIntero(1,parola));
 	printf("inserisci modello strumento: ");
-	parola = leggiConSpazi();
+	scanf("%s",parola);
 	fprintf(fp, "%s", stringaIntero(1,parola));
 	printf("inserisci costo strumento: ");
-	parola = leggiConSpazi();
+	scanf("%s",parola);
 	fprintf(fp, "%s", stringaIntero(0,parola));
 	printf("inserisci anno strumento: ");
-	parola = leggiConSpazi();
+	scanf("%s",parola);
 	fprintf(fp, "%s", stringaIntero(2,parola));
 	fprintf(fp, "%s", fine);
 	
@@ -142,21 +143,142 @@ void insStrum() {
 }
 
 void insPers() {
-
+    FILE *fp;
+	char parola[200];
+	fp = fopen("InserimentoDati.sql","a");
+	fprintf(fp, "%s", inizio);
+	fprintf(fp, "%s", "persona");
+	fprintf(fp, "%s", valori);
+    printf("inserisci id persona:\n");
+    scanf("%s",parola);
+    fprintf(fp,"%s", stringaIntero(1,parola));
+    printf("inserisci nome persona:\n");
+    scanf("%s",parola);
+    fprintf(fp,"%s", stringaIntero(1,parola));
+    printf("inserisci cognome persona:\n");
+    scanf("%s",parola);
+    fprintf(fp,"%s", stringaIntero(1,parola));
+    printf("inserisci data assunzione persona (formato AAAA-MM-GG):\n");
+    scanf("%s",parola);
+    fprintf(fp,"%s", stringaIntero(1,parola));
+    printf("inserisci password della persona:\n");
+    scanf("%s",parola);
+    fprintf(fp,"%s", stringaIntero(3,parola));
+    fprintf(fp, "%s", fine);
+	
+	fclose(fp);
 }
 
 void insDiv() {
-
+    FILE *fp;
+	char parola[200];
+    char *prova_desc;
+	fp = fopen("InserimentoDati.sql","a");
+	fprintf(fp, "%s", inizio);
+	fprintf(fp, "%s", "divosp");
+	fprintf(fp, "%s", valori);
+    printf("inserisci nome divisione:\n");
+    scanf("%s",parola);
+    fprintf(fp,"%s", stringaIntero(1,parola));
+    printf("inserisci rappresentatnte divisione:\n");
+    scanf("%s",parola);
+    fprintf(fp,"%s", stringaIntero(1,parola));
+    printf("inserisci numero dipendenti divisione\n");
+    scanf("%s",parola);
+    fprintf(fp,"%s", stringaIntero(0,parola));
+    printf("inserisci numero posti letto divisione\n");
+    scanf("%s",parola);
+    fprintf(fp,"%s", stringaIntero(0,parola));
+    printf("inserisci descrizione divisione\n");
+    prova_desc = leggiConSpazi();
+    fprintf(fp,"%s", stringaIntero(3,parola));
+    fprintf(fp, "%s", fine);
+	
+	fclose(fp);
+    
 }
 
 void insInc() {
+    FILE *fp;
+	char parola[200];
+    char *prova_desc;
+	fp = fopen("InserimentoDati.sql","a");
+	fprintf(fp, "%s", inizio);
+	fprintf(fp, "%s", "incarico");
+	fprintf(fp, "%s", valori);
+    printf("inserisci codice strumento:\n");
+    scanf("%s",parola);
+	fprintf(fp, "%s", stringaIntero(1,parola));
+    printf("inserisci nome divisione:1\n");
+    scanf("%s",parola);
+    fprintf(fp, "%s", stringaIntero(3,parola));
+    fprintf(fp, "%s", fine);
 
+	fclose(fp);
 }
 
 void insMan() {
+    FILE *fp;
+	char parola[200];
+    char *prova_desc;
+	fp = fopen("InserimentoDati.sql","a");
+	fprintf(fp, "%s", inizio);
+	fprintf(fp, "%s", "manutenzione");
+	fprintf(fp, "%s", valori);
+    printf("inserire codice strumento:\n");
+    scanf("%s",parola);
+	fprintf(fp, "%s", stringaIntero(1,parola));
+    printf("inserire data manutenzione (formato AAAA-MM-GG):\n");
+    scanf("%s",parola);
+	fprintf(fp, "%s", stringaIntero(1,parola));
+    printf("inserire durata manutenzione:\n");
+    scanf("%s",parola);
+	fprintf(fp, "%s", stringaIntero(1,parola));
+    printf("inserire numero operatori:\n");
+    scanf("%s",parola);
+	fprintf(fp, "%s", stringaIntero(0,parola));
+    printf("inserire ditta manutenzione:\n");
+    scanf("%s",parola);
+	fprintf(fp, "%s", stringaIntero(1,parola));
+    printf("inserire urgenza manutenzione:\n");
+    scanf("%s",parola);
+	fprintf(fp, "%s", stringaIntero(1,parola));
+    printf("inserire costo manutenzione:\n");
+    scanf("%s",parola);
+	fprintf(fp, "%s", stringaIntero(2,parola));
+    fprintf(fp, "%s", fine);
 
+	fclose(fp);
 }
 
 void insUtil() {
+    FILE *fp;
+	char parola[200];
+    char *prova_desc;
+	fp = fopen("InserimentoDati.sql","a");
+	fprintf(fp, "%s", inizio);
+	fprintf(fp, "%s", "utstr");
+	fprintf(fp, "%s", valori);
+    printf("inserire data inizio utilizzo strumento (formato AAAA-MM-GG):\n");
+    scanf("%s",parola);
+	fprintf(fp, "%s", stringaIntero(1,parola));
+    printf("inserire data fine utilizzo strumento (formato AAAA-MM-GG):\n");
+    scanf("%s",parola);
+	fprintf(fp, "%s", stringaIntero(1,parola));
+    printf("inserire motivo utilizzo strumento:\n");
+    scanf("%s",parola);
+	fprintf(fp, "%s", stringaIntero(1,parola));
+    printf("inserire codice responsabile utilizzo strumento:\n");
+    scanf("%s",parola);
+	fprintf(fp, "%s", stringaIntero(1,parola));
+    printf("inserire codice strumento utilizzato:\n");
+    scanf("%s",parola);
+	fprintf(fp, "%s", stringaIntero(1,parola));
+    printf("inserire nome dipartimento strumento utilizzato:\n");
+    scanf("%s",parola);
+	fprintf(fp, "%s", stringaIntero(3,parola));
 
+    fprintf(fp, "%s", fine);
+
+	fclose(fp);
 }

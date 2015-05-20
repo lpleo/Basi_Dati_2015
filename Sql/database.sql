@@ -38,11 +38,11 @@ FOREIGN KEY(NomeD) REFERENCES DivOsp(Nome)
 
 CREATE TABLE Manutenzione(
 CodS VARCHAR,
-Data DATE NOT NULL,
+Data DATE NOT NULL, /*dobbiamo inserire datetime*/
 Durata VARCHAR NOT NULL,
 NumOp INTEGER NOT NULL,
 IDitta VARCHAR NOT NULL,
-Urgenza VARCHAR NULL,
+Urgenza VARCHAR NULL, /*si deve limitare l'ingresso a molto, poco, abbastanza... */
 Costo FLOAT NULL,
 PRIMARY KEY(CodS, Data),
 FOREIGN KEY(CodS) REFERENCES Strumento(Cod)
