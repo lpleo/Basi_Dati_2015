@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "compilo..."
-risComp=$(javac -d WEB-INF/classes/ -classpath WEB-INF/lib/javax.faces-2.2.8.jar:WEB-INF/lib/postgresql-9.3-1100.jdbc4.jar src/it/ablp/RecuperoDati.java src/it/ablp/Strumento.java src/it/ProdView.java)
+risComp=$(javac -d WEB-INF/classes/ -classpath WEB-INF/lib/javax.faces-2.2.8.jar:WEB-INF/lib/postgresql-9.3-1100.jdbc4.jar src/it/ablp/*.java src/it/ablp/StrSel.java)
 
 if [ -z $risComp ]
 	then
@@ -14,7 +14,8 @@ if [ -z $risComp ]
 				echo "faccio ripartire tomcat"
 				tomcat restart
 		fi
-		firefox localhost:8080/progetto/
+		sleep 1
+		firefox localhost:8080/progetto/&
 	else
 		echo "compilazione fallita"
 		echo $risComp

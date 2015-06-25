@@ -2,6 +2,7 @@ package it;
 
 import it.ablp.RecuperoDati;
 import it.ablp.Strumento;
+import it.ablp.StrSel;
 import javax.annotation.PostConstruct;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.SessionScoped;
@@ -17,7 +18,7 @@ public class ProdView implements Serializable {
 
   private RecuperoDati ds;
   private List<Strumento> strumenti;
-  private Strumento strumSelezionato;
+  private StrSel strumSelezionato;
 
   // === Methods ===============================================================
 
@@ -40,5 +41,16 @@ public class ProdView implements Serializable {
   		strumenti = ds.getStrumentiDatabase();
   	}
   	return strumenti;
+  }
+  
+  public String dettaglio(String elementi) {
+    if( this.ds != null ){
+      strumSelezionato = ds.getStrumSel( elementi );
+    }
+    return "dettaglio";
+  }
+  
+  public StrSel getDetStrum() {
+  	return strumSelezionato;
   }
 }

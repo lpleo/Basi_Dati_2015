@@ -5,14 +5,24 @@ public class Strumento {
 // === Properties ============================================================
 private String nome;
 private String nomed;
+private String cod;
 
 // === Methods ===============================================================
 
-public Strumento() {
-nome=null;
-nomed=null;
-}
+	public Strumento() {
+		nome=null;
+		nomed=null;
+		cod=null;
+	}
 
+	public void setCod(String cod) {
+		this.cod = cod;
+	}
+	
+	public void getCod() {
+		return this.cod;
+	}
+	
 	public void setNome(String nome) {
 		this.nome = nome;
 	}

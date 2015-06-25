@@ -17,11 +17,17 @@
     <h:dataTable value="#{dati.strumenti}" var="c" border="1" style="margin: 0px auto">
       <h:column>
         <f:facet name="header">Nome Strumento</f:facet>
-        #{c.nome}
+        <h:commandLink
+          value="#{c.nome}"
+          action="#{dati.dettaglio(c.cod)}"/>
       </h:column>
       <h:column>
         <f:facet name="header">In Uso</f:facet>
         #{c.nomed}
+      </h:column>
+      <h:column>
+        <f:facet name="header">Codice</f:facet>
+        #{c.cod}
       </h:column>
     </h:dataTable>
   </h:form>

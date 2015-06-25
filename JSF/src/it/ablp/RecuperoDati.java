@@ -9,6 +9,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
+import it.ablp.StrSel;
 
 public class RecuperoDati implements Serializable {
 //dati utente
@@ -20,7 +21,8 @@ public class RecuperoDati implements Serializable {
 	private String driver = "org.postgresql.Driver";
 
 //query	
-	private String queryStrum = "SELECT s.nome, d.nomed FROM strumento s FULL JOIN incarico d ON s.cod = d.cods;";
+	private String queryStrum = "SELECT s.cod, s.nome, d.nomed FROM strumento s FULL JOIN incarico d ON s.cod = d.cods";
+	private String queryDettStrum = "SELECT * FROM strumento WHERE cod = '";
 	
 	/*==========================costruttori====================================*/
 	public RecuperoDati() throws ClassNotFoundException {
@@ -31,31 +33,64 @@ public class RecuperoDati implements Serializable {
 	/*======BEAN=====*/
 		//bean strumenti + collocazione
 		private Strumento makeStrumBean( ResultSet rs ) throws SQLException {
-		Strumento bean = new Strumento();
-		bean.setNome( rs.getString( "nome" ) );
-		//speremoben
-		String stato = rs.getString( "nomed" );
-		if(stato.length()==0) stato = "disponibile";
-		bean.setNomed( stato );
-		//bean.setNomed(rs.getString( "nomed" ));
-		return bean;
+			Strumento bean = new Strumento();
+			bean.setNome( rs.getString( "nome" ) );
+			bean.setCod( rs.getString( "cod"));
+			//speremoben
+			String stato = rs.getString( "nomed" );
+			if(stato==null) stato = "disponibile";
+			bean.setNomed( stato );
+			return bean;
 	  	}
 	  	
-	  	private Strumento fakeBean() {
-	  		Strumento bean = new Strumento();
-	  		bean.setNome("ciao");
-	  		bean.setNomed("bepi");
-	  		return bean;
+	  	private StrSel makeStrumSelBean( ResultSet rs ) throws SQLException {
+			StrSel bean = new StrSel();
+			bean.setCod(rs.getString( "cod"));
+			bean.setNome(rs.getString( "nome"));
+			bean.setWatt(rs.getFloat( "watt"));
+			bean.setDitta(rs.getString( "ditta"));
+			bean.setModello(rs.getString( "modello"));
+			bean.setCosto(rs.getFloat( "costo"));
+			bean.setAnnoaq(rs.getInt( "annoaq"));
+			return bean;
 	  	}
+
   	
   	/*=====FINE BEAN=====*/
   	
   	/*===RECUPERO DATI DA DATABASE===*/
-  		public List<Strumento> getStrumentiDatabaseProva() {
-  			List<Strumento> result = new ArrayList<Strumento>();
-  			result.add(fakeBean());
-  			result.add(fakeBean());
-  			return result;
+  		public StrSel getStrumSel(String cod) {
+  			queryDettStrum = queryDettStrum+cod+"'";
+  			Connection con = null;
+			PreparedStatement pstmt = null;
+			ResultSet rs = null;
+			StrSel result = null;
+			try {
+			  // tentativo di connessione al database
+			  con = DriverManager.getConnection( url, user, passwd );
+			  // connessione riuscita, ottengo l'oggetto per l'esecuzione dell'interrogazione.
+			  pstmt = con.prepareStatement( queryDettStrum );
+			  pstmt.clearParameters();
+			  // imposto i parametri della query
+			  //pstmt.setInt( 1, id );
+			  // eseguo la query
+			  rs = pstmt.executeQuery();
+			  // memorizzo il risultato dell'interrogazione in Vector di Bean
+			  if( rs.next() ) {
+				result = makeStrumSelBean( rs );
+			  }
+
+			} catch( SQLException sqle ) { // Catturo le eventuali eccezioni
+			  sqle.printStackTrace();
+
+			} finally { // alla fine chiudo la connessione.
+			  try {
+				con.close();
+			  } catch( SQLException sqle1 ) {
+				sqle1.printStackTrace();
+			  }
+			}
+			return result;
   		}
   	
 	  	public List<Strumento> getStrumentiDatabase() {
