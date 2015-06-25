@@ -8,10 +8,10 @@ private String nomed;
 
 // === Methods ===============================================================
 
-	public Strumento() {
-		nome=null;
-		nomed=null;
-	}
+public Strumento() {
+nome=null;
+nomed=null;
+}
 
 	public void setNome(String nome) {
 		this.nome = nome;

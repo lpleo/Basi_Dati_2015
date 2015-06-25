@@ -32,12 +32,14 @@ public class RecuperoDati implements Serializable {
 		//bean strumenti + collocazione
 		private Strumento makeStrumBean( ResultSet rs ) throws SQLException {
 		Strumento bean = new Strumento();
-		bean.setNome( rs.getString( "nome" ) );
+		/*bean.setNome( rs.getString( "nome" ) );
 		//speremoben
 		String stato = rs.getString( "nomed" );
 		if(stato.length()==0) stato = "disponibile";
 		bean.setNomed( stato );
-		//bean.setNomed(rs.getString( "nomed" ));
+		//bean.setNomed(rs.getString( "nomed" ));*/
+		bean.setNome("ciao");
+		bean.setNomed("bepi");
 		return bean;
 	  	}
 	  	
