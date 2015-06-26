@@ -2,24 +2,23 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:h="http://java.sun.com/jsf/html"
-  >
+      xmlns:h="http://java.sun.com/jsf/html"  >
 <h:head>
   <title>Dettaglio strumento</title>
 </h:head>
 
 
-<h:body>
-  <h1>#{dati.detstrum.nome}</h1>
+<h:body value="#{dati.strsel}" var="c" >
+  <h1>#{c.nome}</h1>
 
   <ul>
-    <li>#{dati.detstrum.nome}</li>
-	<li>#{dati.detstrum.cod}</li>
-	<li>#{dati.detstrum.watt}</li>
-	<li>#{dati.detstrum.ditta}</li>
-	<li>#{dati.detstrum.modello}</li>
-	<li>#{dati.detstrum.costo}</li>
-	<li>#{dati.detstrum.annoaq}</li>
+    <li>#{c.nome}</li>
+	<li>#{c.cod}</li>
+	<li>#{c.watt}</li>
+	<li>#{c.ditta}</li>
+	<li>#{c.modello}</li>
+	<li>#{c.costo}</li>
+	<li>#{c.annoaq}</li>
   </ul>
 
   <h:outputLink value="index.jsf">Pagina iniziale</h:outputLink>

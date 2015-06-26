@@ -43,14 +43,14 @@ public class ProdView implements Serializable {
   	return strumenti;
   }
   
-  public String dettaglio(java.lang.String elementi) {
+  public String dettaglio(/*java.lang.String elementi*/) {
     if( this.ds != null ){
-      strumSelezionato = ds.getStrumSel( elementi );
+      strumSelezionato = ds.getStrumSel(/*elementi*/"AA000");
     }
     return "dettaglio";
   }
   
   public StrSel getDetStrum() {
-  	return strumSelezionato;
+    	return strumSelezionato;
   }
 }

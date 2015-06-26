@@ -5,7 +5,7 @@
       xmlns:h="http://java.sun.com/jsf/html"
       xmlns:f="http://java.sun.com/jsf/core">
 <h:head>
-  <title>Home</title>
+  <title>Risultato della query</title>
 </h:head>
 
 
@@ -19,7 +19,7 @@
         <f:facet name="header">Nome Strumento</f:facet>
         <h:commandLink
           value="#{c.nome}"
-          action="#{dati.dettaglio(c.cod)}"/>
+          action="dettaglio" />
       </h:column>
       <h:column>
         <f:facet name="header">In Uso</f:facet>
