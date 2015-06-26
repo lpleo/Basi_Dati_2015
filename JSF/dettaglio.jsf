@@ -2,26 +2,21 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:h="http://java.sun.com/jsf/html"  >
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core"  >
 <h:head>
   <title>Dettaglio strumento</title>
 </h:head>
 
 
-<h:body value="#{dati.strsel}" var="c" >
-  <h1>#{c.nome}</h1>
-
-  <ul>
-    <li>#{c.nome}</li>
-	<li>#{c.cod}</li>
-	<li>#{c.watt}</li>
-	<li>#{c.ditta}</li>
-	<li>#{c.modello}</li>
-	<li>#{c.costo}</li>
-	<li>#{c.annoaq}</li>
-  </ul>
+<h:body>
+  <h:form>
+  	<h1> #{dati.pollo.nome} </h1>
+  	
+	
 
   <h:outputLink value="index.jsf">Pagina iniziale</h:outputLink>
 
+</h:form>
 </h:body>
 </html>

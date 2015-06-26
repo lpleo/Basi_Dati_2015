@@ -18,13 +18,13 @@ public class ProdView implements Serializable {
 
   private RecuperoDati ds;
   private List<Strumento> strumenti;
-  private StrSel strumSelezionato;
+  private StrSel pollo;
 
   // === Methods ===============================================================
 
   public ProdView() {
     this.strumenti = null;
-    this.strumSelezionato = null;
+    this.pollo = null;
   }
 
   @PostConstruct
@@ -43,14 +43,14 @@ public class ProdView implements Serializable {
   	return strumenti;
   }
   
-  public String dettaglio(/*java.lang.String elementi*/) {
+  public String dettaglio(String codice) {
     if( this.ds != null ){
-      strumSelezionato = ds.getStrumSel(/*elementi*/"AA000");
+      pollo = ds.getStrumSel(codice);
     }
     return "dettaglio";
   }
   
-  public StrSel getDetStrum() {
-    	return strumSelezionato;
+  public StrSel getPollo() {
+    	return pollo;
   }
 }

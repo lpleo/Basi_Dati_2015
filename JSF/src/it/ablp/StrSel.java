@@ -1,6 +1,6 @@
 package it.ablp;
-
-public class StrSel {
+import java.io.Serializable;
+public class StrSel implements Serializable{
 
 // === Properties ============================================================
 private String nome;
@@ -10,6 +10,8 @@ private String ditta;
 private String modello;
 private float costo;
 private int annoaq;
+/*debug*/
+private int prova;
 
 // === Methods ===============================================================
 
@@ -21,6 +23,8 @@ private int annoaq;
 		modello=null;
 		costo=0;
 		annoaq=0;
+		/*debug*/
+		prova=0;
 	}
 
 	public void setCod(String cod) {
@@ -78,4 +82,14 @@ private int annoaq;
 	public int getAnnoaq() {
 		return this.annoaq;
 	}
+	
+	/*debug*/
+	public void setProva(int prova) {
+		this.prova=prova;
+	}
+	
+	public int getProva() {
+		return this.prova;
+	}
+	/////////////////////
 }

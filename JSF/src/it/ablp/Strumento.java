@@ -1,6 +1,6 @@
 package it.ablp;
-
-public class Strumento {
+import java.io.Serializable;
+public class Strumento implements Serializable{
 
 // === Properties ============================================================
 private String nome;

@@ -19,7 +19,7 @@
         <f:facet name="header">Nome Strumento</f:facet>
         <h:commandLink
           value="#{c.nome}"
-          action="dettaglio" />
+          action="#{dati.dettaglio( c.cod )}" />
       </h:column>
       <h:column>
         <f:facet name="header">In Uso</f:facet>
