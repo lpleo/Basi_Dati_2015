@@ -11,7 +11,13 @@
 
 <h:body>
   <h:form>
-  	<h1> #{dati.pollo.nome} </h1>
+  	<h1> Nome: #{dati.pollo.nome} </h1>
+  	<h1> Codice: #{dati.pollo.cod} </h1>
+  	<h1> Consumo: #{dati.pollo.watt} W</h1>
+  	<h1> Ditta produttrice: #{dati.pollo.ditta} </h1>
+  	<h1> Modello: #{dati.pollo.modello} </h1>
+  	<h1> Costo: #{dati.pollo.costo} $</h1>
+  	<h1> Anno acquisto: #{dati.pollo.annoaq} </h1>
   	
 	
 

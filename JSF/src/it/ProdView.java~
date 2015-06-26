@@ -19,7 +19,7 @@ public class ProdView implements Serializable {
   private RecuperoDati ds;
   private List<Strumento> strumenti;
   private StrSel pollo;
-  private List<Manap> manutenzione;  
+  private Manap manutenzione;  
 
   // === Methods ===============================================================
 

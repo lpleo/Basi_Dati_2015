@@ -30,6 +30,9 @@
         #{c.cod}
       </h:column>
     </h:dataTable>
+    
+     <h:outputLink value="man.jsf">Manutenzioni aperte</h:outputLink>
+     
   </h:form>
 </h:body>
 </html>

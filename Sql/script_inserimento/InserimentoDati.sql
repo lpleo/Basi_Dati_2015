@@ -8,3 +8,4628 @@ INSERT INTO divosp VALUES ( 'Ortopedia' , 'SG321' ,20 ,30 ,'30' );
 INSERT INTO divosp VALUES ( 'Cardiologia' , 'Mr197' ,15 ,37 ,'37' );
 INSERT INTO incarico VALUES ( 'BF749' ,'Cardiologia' );
 INSERT INTO incarico VALUES ( 'FD473' ,'Ortopedia' );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );
+INSERT INTO strumento VALUES ( 'ñp' , 'ñp' ,ñp , 'ñp' , 'ñp' ,ñp ,ñp );

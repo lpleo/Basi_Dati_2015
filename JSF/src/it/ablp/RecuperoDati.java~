@@ -75,6 +75,7 @@ public class RecuperoDati implements Serializable {
   			Connection con = null;
 			PreparedStatement pstmt = null;
 			ResultSet rs = null;
+			Manap result = null;
 			List<Manap> result = new ArrayList<Manap>();
 			try {
 			  // tentativo di connessione al database
