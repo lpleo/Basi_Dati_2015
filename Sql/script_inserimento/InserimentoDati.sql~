@@ -4,7 +4,7 @@ INSERT INTO strumento VALUES ( 'BF749' , 'Elettrocardiogramma' ,120 , 'CuorFelic
 INSERT INTO strumento VALUES ( 'RA654' , 'Microscopio' ,40 , 'Bigger' , 'b77' ,2750 ,1998 );
 INSERT INTO persona VALUES ( 'Mr197' , 'Marietto' , 'Panucci' , '2011-06-24' ,'marpan' );
 INSERT INTO persona VALUES ( 'SG321' , 'Sara' , 'Genoveffi' , '1979-12-31' ,'sargen1' );
-INSERT INTO divosp VALUES ( 'Ortopedia' , 'SG321' ,20 ,30 ,'30' );
+INSERT INTO divosp VALUES ( 'Cardiologia' , 'SG321' ,20 ,30 ,'30' );
 INSERT INTO divosp VALUES ( 'Cardiologia' , 'Mr197' ,15 ,37 ,'37' );
 INSERT INTO incarico VALUES ( 'BF749' ,'Cardiologia' );
 INSERT INTO incarico VALUES ( 'FD473' ,'Ortopedia' );
